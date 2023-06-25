@@ -1,5 +1,4 @@
-Chapter 2: Overview of Workplace Conflict: The Costs and Consequences of Workplace Conflict
-===========================================================================================
+# The Costs and Consequences of Workplace Conflict
 
 Workplace conflict is a common issue that can have significant costs and consequences for organizations. In this chapter, we will explore the costs and consequences of workplace conflict.
 

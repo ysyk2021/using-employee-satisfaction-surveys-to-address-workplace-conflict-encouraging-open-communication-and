@@ -1,5 +1,4 @@
-Chapter 7: Resolving Workplace Conflict through Collaborative Problem-Solving: Consensus Building and Conflict Resolution Strategies
-====================================================================================================================================
+# Consensus Building and Conflict Resolution Strategies
 
 Collaborative problem-solving is a powerful tool for resolving workplace conflict. By bringing together individuals with differing perspectives and experiences, organizations can create solutions that benefit everyone involved. In this chapter, we will explore consensus building and conflict resolution strategies that can be used to resolve workplace conflict.
 

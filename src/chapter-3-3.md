@@ -1,5 +1,4 @@
-Chapter 3: Understanding Employee Satisfaction Surveys: Establishing Baselines for Comparison
-=============================================================================================
+# Establishing Baselines for Comparison
 
 Employee satisfaction surveys are an essential tool in addressing workplace conflict and improving communication and resolution. In this chapter, we will explore the importance of establishing baselines for comparison when conducting employee satisfaction surveys.
 

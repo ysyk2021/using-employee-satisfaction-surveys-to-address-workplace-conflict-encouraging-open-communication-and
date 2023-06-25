@@ -1,5 +1,4 @@
-Chapter 4: Administering Employee Satisfaction Surveys: Choosing the Right Survey Methodology
-=============================================================================================
+# Choosing the Right Survey Methodology
 
 Choosing the right survey methodology is essential to obtaining accurate and meaningful results from employee satisfaction surveys. In this chapter, we will explore different survey methodologies and help organizations choose the best approach for their needs.
 

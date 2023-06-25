@@ -1,5 +1,4 @@
-Chapter 2: Overview of Workplace Conflict: Techniques for Preventing and Managing Workplace Conflict
-====================================================================================================
+# Techniques for Preventing and Managing Workplace Conflict
 
 Workplace conflict is a common issue that can have negative impacts on employee satisfaction, productivity, and retention. In this chapter, we will provide an overview of workplace conflict and explore techniques for preventing and managing workplace conflict.
 

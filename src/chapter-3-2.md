@@ -1,5 +1,4 @@
-Chapter 3: Understanding Employee Satisfaction Surveys: Identifying Key Survey Questions and Metrics
-====================================================================================================
+# Identifying Key Survey Questions and Metrics
 
 Employee satisfaction surveys are an essential tool in addressing workplace conflict and improving communication and resolution. In this chapter, we will explore techniques for identifying key survey questions and metrics.
 

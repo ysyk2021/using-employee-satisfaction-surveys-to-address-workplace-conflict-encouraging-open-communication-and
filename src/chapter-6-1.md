@@ -1,5 +1,4 @@
-Chapter 6: Addressing Workplace Conflict through Open Communication: Techniques for Addressing Workplace Conflict through Open Communication
-============================================================================================================================================
+# Techniques for Addressing Workplace Conflict through Open Communication
 
 Effective communication is essential for addressing workplace conflict and creating a positive and productive work environment. In this chapter, we will explore techniques for addressing workplace conflict through open communication.
 

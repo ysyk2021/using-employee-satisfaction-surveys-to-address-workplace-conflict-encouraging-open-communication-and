@@ -1,5 +1,4 @@
-Chapter 3: Understanding Employee Satisfaction Surveys: Techniques for Understanding Employee Satisfaction Surveys
-==================================================================================================================
+# Techniques for Understanding Employee Satisfaction Surveys
 
 Employee satisfaction surveys are an essential tool in addressing workplace conflict and improving communication and resolution. In this chapter, we will explore techniques for understanding employee satisfaction surveys.
 

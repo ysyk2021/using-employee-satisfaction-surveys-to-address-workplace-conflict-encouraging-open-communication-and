@@ -1,5 +1,4 @@
-Chapter 9: Conclusion: Final Recommendations for Using Employee Satisfaction Surveys to Address Workplace Conflict
-==================================================================================================================
+# Final Recommendations for Using Employee Satisfaction Surveys to Address Workplace Conflict
 
 Employee satisfaction surveys are a critical tool for addressing workplace conflict and improving overall employee satisfaction. In this book, we have explored the importance of employee satisfaction surveys in addressing workplace conflict and provided strategies for effective conflict management.
 

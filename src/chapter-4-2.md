@@ -1,5 +1,4 @@
-Chapter 4: Administering Employee Satisfaction Surveys: Ensuring Confidentiality and Anonymity
-==============================================================================================
+# Ensuring Confidentiality and Anonymity
 
 Administering employee satisfaction surveys is an important step in addressing workplace conflict and improving communication and resolution. However, it's essential to ensure confidentiality and anonymity to encourage honest and open responses. In this chapter, we will explore how to administer employee satisfaction surveys while maintaining confidentiality and anonymity.
 

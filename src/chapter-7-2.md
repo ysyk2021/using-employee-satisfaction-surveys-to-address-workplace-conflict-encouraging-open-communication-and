@@ -1,5 +1,4 @@
-Chapter 7: Resolving Workplace Conflict through Collaborative Problem-Solving: Brainstorming and Ideation Techniques
-====================================================================================================================
+# Brainstorming and Ideation Techniques
 
 Collaborative problem-solving is a powerful technique for resolving workplace conflict and creating a positive and productive work environment. In this chapter, we will explore brainstorming and ideation techniques for collaborative problem-solving.
 

@@ -1,5 +1,4 @@
-Chapter 6: Addressing Workplace Conflict through Open Communication: Creating Safe Spaces for Dialogue and Feedback
-===================================================================================================================
+# Creating Safe Spaces for Dialogue and Feedback
 
 Effective communication is essential for addressing workplace conflict and creating a positive and productive work environment. In this chapter, we will explore the importance of creating safe spaces for dialogue and feedback in addressing workplace conflict through open communication.
 

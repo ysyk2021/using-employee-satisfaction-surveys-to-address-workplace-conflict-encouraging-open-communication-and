@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Conflict Resolution Effectiveness: Continuous Improvement in Conflict Management
-====================================================================================================================
+# Continuous Improvement in Conflict Management
 
 Measuring and evaluating conflict resolution effectiveness is critical for continuous improvement in conflict management. In this chapter, we will explore strategies for measuring and evaluating conflict resolution effectiveness.
 
