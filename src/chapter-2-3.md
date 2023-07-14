@@ -2,13 +2,6 @@
 
 Workplace conflict is a common issue that can have negative impacts on employee satisfaction, productivity, and retention. In this chapter, we will provide an overview of workplace conflict and explore techniques for preventing and managing workplace conflict.
 
-What is Workplace Conflict?
----------------------------
-
-Workplace conflict refers to disagreements or disputes between employees or between employees and management. Common causes of workplace conflict include differences in communication styles, work styles, and personality clashes.
-
-Workplace conflict can lead to a variety of negative outcomes, including decreased job satisfaction, increased stress and anxiety, decreased productivity, and increased employee turnover.
-
 Techniques for Preventing Workplace Conflict
 --------------------------------------------
 
