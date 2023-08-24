@@ -1,5 +1,3 @@
-Chapter 7: Resolving Workplace Conflict through Collaborative Problem-Solving
-=============================================================================
 
 Collaborative problem-solving is a powerful technique for resolving workplace conflict and creating a positive and productive work environment. In this chapter, we will explore techniques for resolving workplace conflict through collaborative problem-solving, including brainstorming and ideation techniques, and consensus building and conflict resolution strategies.
 

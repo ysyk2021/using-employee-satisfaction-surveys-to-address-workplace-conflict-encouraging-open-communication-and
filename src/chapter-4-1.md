@@ -1,4 +1,3 @@
-# Techniques for Administering Employee Satisfaction Surveys
 
 Administering employee satisfaction surveys is an essential tool in addressing workplace conflict and improving communication and resolution. However, the success of these surveys depends on how they are administered. In this chapter, we will explore techniques for administering employee satisfaction surveys.
 

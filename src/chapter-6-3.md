@@ -1,4 +1,3 @@
-# Encouraging Active Listening and Empathy Skills
 
 Open communication is critical for addressing workplace conflict and creating a positive and productive work environment. In this chapter, we will explore strategies for encouraging active listening and empathy skills to effectively manage workplace conflict.
 

@@ -1,5 +1,3 @@
-Chapter 6: Addressing Workplace Conflict through Open Communication
-===================================================================
 
 Effective communication is essential for addressing workplace conflict and creating a positive and productive work environment. In this chapter, we will explore techniques for addressing workplace conflict through open communication, including creating safe spaces for dialogue and feedback and encouraging active listening and empathy skills.
 
@@ -34,5 +32,4 @@ Conclusion
 ----------
 
 In conclusion, addressing workplace conflict through open communication is critical for creating a positive and productive work environment. By using techniques such as active listening, empathy, and brainstorming solutions together, employees can work together to address workplace conflict proactively and prevent conflicts from arising or escalating. Creating safe spaces for dialogue and feedback and establishing ground rules for communication can also help build trust and open communication, which is essential for effective conflict management.
-
 

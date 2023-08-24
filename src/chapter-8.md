@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Conflict Resolution Effectiveness
-=====================================================================
 
 Measuring and evaluating the effectiveness of conflict resolution efforts is essential to creating a positive and productive workplace. In this chapter, we will explore metrics for measuring conflict resolution effectiveness, evaluating individual and organizational performance, and continuous improvement in conflict management.
 

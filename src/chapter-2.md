@@ -1,5 +1,3 @@
-Chapter 2: Overview of Workplace Conflict
-=========================================
 
 Workplace conflict is a common issue that can have negative impacts on employee satisfaction, productivity, and retention. In this chapter, we will provide an overview of workplace conflict, including different types of workplace conflict, the costs and consequences of workplace conflict, and techniques for preventing and managing workplace conflict.
 

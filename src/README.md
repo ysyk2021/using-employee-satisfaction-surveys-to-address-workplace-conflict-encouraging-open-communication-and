@@ -1,4 +1,3 @@
-# Introduction
 
 Workplace conflict is a common issue that can impact employee morale and productivity. However, addressing these conflicts can be challenging without the right tools and strategies. In "Using Employee Satisfaction Surveys to Address Workplace Conflict: Encouraging Open Communication and Resolution," readers will explore how employee satisfaction surveys can be used to identify and address workplace conflicts effectively.
 

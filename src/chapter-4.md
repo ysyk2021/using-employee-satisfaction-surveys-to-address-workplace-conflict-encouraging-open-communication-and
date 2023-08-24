@@ -1,5 +1,3 @@
-Chapter 4: Administering Employee Satisfaction Surveys
-======================================================
 
 Administering employee satisfaction surveys is an essential tool in addressing workplace conflict and improving communication and resolution. In this chapter, we will explore techniques for administering employee satisfaction surveys, ensuring confidentiality and anonymity, and choosing the right survey methodology.
 

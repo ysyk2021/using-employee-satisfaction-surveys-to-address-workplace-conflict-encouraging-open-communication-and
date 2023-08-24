@@ -1,5 +1,3 @@
-Chapter 5: Analyzing Employee Satisfaction Survey Results
-=========================================================
 
 Analyzing employee satisfaction survey results is a critical step in addressing workplace conflict and improving communication and resolution. In this chapter, we will explore techniques for analyzing survey results, interpreting data and trends, and identifying areas of improvement and conflict.
 

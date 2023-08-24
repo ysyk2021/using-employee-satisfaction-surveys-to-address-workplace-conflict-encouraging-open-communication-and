@@ -1,4 +1,3 @@
-# Recap of Key Points and Strategies
 
 In this book, we have explored the importance of employee satisfaction surveys in addressing workplace conflict and providing strategies for effective conflict management. In this final chapter, we will recap the key points and strategies discussed throughout the book.
 

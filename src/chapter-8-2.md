@@ -1,4 +1,3 @@
-# Evaluating Individual and Organizational Performance
 
 Measuring and evaluating conflict resolution effectiveness is critical for continuous improvement in conflict management. In this chapter, we will explore strategies for evaluating individual and organizational performance in conflict resolution.
 

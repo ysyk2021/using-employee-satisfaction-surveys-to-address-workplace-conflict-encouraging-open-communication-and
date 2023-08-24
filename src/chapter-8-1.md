@@ -1,4 +1,3 @@
-# Metrics for Measuring Conflict Resolution Effectiveness
 
 Measuring and evaluating conflict resolution effectiveness is important for determining the success of conflict management strategies and identifying areas for improvement. In this chapter, we will explore metrics for measuring conflict resolution effectiveness.
 

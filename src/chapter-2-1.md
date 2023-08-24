@@ -1,4 +1,3 @@
-# Different Types of Workplace Conflict
 
 Workplace conflict is a common issue that can have negative impacts on employee satisfaction, productivity, and retention. In this chapter, we will provide an overview of different types of workplace conflict.
 
