@@ -1,5 +1,4 @@
-Chapter 4: Creating Safe Spaces for Dialogue and Feedback
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of creating safe spaces for dialogue and feedback in the workplace. Open communication and resolution of workplace conflict can only be achieved when employees feel comfortable expressing their opinions and concerns. By fostering an environment that encourages open dialogue, organizations can effectively address conflicts and promote employee satisfaction. This chapter will provide practical strategies for creating these safe spaces and ensuring that feedback is heard and valued.
 

@@ -1,5 +1,4 @@
-Chapter: The Costs and Consequences of Workplace Conflict
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the costs and consequences associated with workplace conflict. Understanding the impact of conflicts is crucial for organizations to recognize the importance of addressing these issues and utilizing employee satisfaction surveys to encourage open communication and resolution.
 

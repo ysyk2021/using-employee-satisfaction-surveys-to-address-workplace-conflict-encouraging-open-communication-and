@@ -1,5 +1,4 @@
-Chapter 7: Ensuring Confidentiality and Anonymity
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of ensuring confidentiality and anonymity when using employee satisfaction surveys to address workplace conflict, encourage open communication, and facilitate resolution. Confidentiality and anonymity play a crucial role in creating a safe environment for employees to provide honest feedback and express their concerns without fear of retribution. This chapter will provide insights into best practices for maintaining confidentiality and anonymity in employee satisfaction surveys.
 

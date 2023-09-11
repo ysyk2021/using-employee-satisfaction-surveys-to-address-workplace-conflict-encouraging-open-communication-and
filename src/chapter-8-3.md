@@ -1,5 +1,4 @@
-Chapter 10: Continuous Improvement in Conflict Management
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of continuous improvement in conflict management when utilizing employee satisfaction surveys to address workplace conflict, encourage open communication, and promote resolution. Conflict is inevitable in any organization, but organizations can strive to improve their conflict management practices continuously. This chapter will provide guidance on implementing a culture of continuous improvement, leveraging employee satisfaction surveys to gather insights, and applying those insights to enhance conflict management strategies.
 

@@ -1,5 +1,4 @@
-Chapter 9: Techniques for Understanding Employee Satisfaction Surveys
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques for effectively understanding employee satisfaction surveys when addressing workplace conflict, encouraging open communication, and promoting resolution. Analyzing and interpreting survey data correctly is crucial for gaining meaningful insights and making informed decisions. This chapter will provide guidance on techniques to ensure a comprehensive understanding of employee satisfaction surveys and their implications for conflict resolution.
 

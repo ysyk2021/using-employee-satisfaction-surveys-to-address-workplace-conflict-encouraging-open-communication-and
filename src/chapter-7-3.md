@@ -1,5 +1,4 @@
-Chapter 9: Consensus Building and Conflict Resolution Strategies
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore consensus building and conflict resolution strategies that can be employed to address workplace conflict, encourage open communication, and promote resolution. Consensus building involves the process of reaching a collective agreement or shared understanding among conflicting parties. By utilizing effective conflict resolution strategies, organizations can navigate through conflicts and facilitate positive outcomes. This chapter will introduce various techniques and approaches for consensus building and conflict resolution to create a harmonious work environment.
 

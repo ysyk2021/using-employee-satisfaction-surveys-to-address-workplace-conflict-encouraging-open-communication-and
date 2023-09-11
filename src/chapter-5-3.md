@@ -1,5 +1,4 @@
-Chapter 8: Identifying Areas of Improvement and Conflict
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of using employee satisfaction surveys to identify areas of improvement and conflict within the workplace. Employee satisfaction surveys provide valuable insights into the experiences, concerns, and perceptions of employees. By analyzing survey responses, organizations can pinpoint specific areas that require attention and take proactive measures to address workplace conflict and promote open communication. This chapter will guide you through the steps of effectively identifying areas of improvement and conflict through employee satisfaction surveys.
 

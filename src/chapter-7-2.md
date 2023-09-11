@@ -1,5 +1,4 @@
-Chapter 9: Brainstorming and Ideation Techniques
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various brainstorming and ideation techniques that can be used to address workplace conflict, encourage open communication, and promote resolution. Brainstorming sessions provide a platform for employees to generate creative ideas and solutions collaboratively. These techniques foster a supportive environment where all voices are heard and valued. This chapter will introduce several effective brainstorming and ideation techniques that can be utilized to address workplace conflicts and facilitate open communication.
 

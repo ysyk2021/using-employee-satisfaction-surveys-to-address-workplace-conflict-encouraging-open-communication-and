@@ -1,5 +1,4 @@
-Chapter 9: Techniques for Resolving Workplace Conflict through Collaborative Problem-Solving
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques for resolving workplace conflict through collaborative problem-solving. Conflict is an inevitable part of any workplace, but when managed effectively, it can lead to positive outcomes and improved relationships. Collaborative problem-solving allows conflicting parties to work together toward a mutually beneficial resolution. This chapter will provide insights into various techniques that can be employed to effectively resolve workplace conflict through collaboration and problem-solving.
 

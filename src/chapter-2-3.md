@@ -1,5 +1,4 @@
-Chapter: Techniques for Preventing and Managing Workplace Conflict
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques for preventing and managing workplace conflict through the use of employee satisfaction surveys. By implementing these strategies and promoting open communication and resolution, organizations can proactively address conflicts, foster a positive work environment, and enhance overall employee satisfaction.
 

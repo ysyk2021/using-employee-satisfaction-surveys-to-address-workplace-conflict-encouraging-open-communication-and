@@ -1,5 +1,4 @@
-Chapter 5: Techniques for Administering Employee Satisfaction Surveys
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various techniques and best practices for effectively administering employee satisfaction surveys. Surveys serve as valuable tools for understanding employee sentiments, identifying workplace conflicts, and improving communication and resolution strategies. By utilizing appropriate techniques, organizations can ensure accurate data collection and maximize the benefits of employee satisfaction surveys. This chapter will provide insights into survey design, administration methods, and data analysis.
 

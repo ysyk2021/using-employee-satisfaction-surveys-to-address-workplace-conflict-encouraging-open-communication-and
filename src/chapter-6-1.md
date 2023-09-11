@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Addressing Workplace Conflict Through Open Communication
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore techniques for effectively addressing workplace conflict through open communication. Conflict is a natural occurrence in any organization, but how it is handled can make a significant difference in promoting resolution and maintaining healthy working relationships. By fostering open communication channels, organizations can create an environment that encourages dialogue, understanding, and collaboration in resolving workplace conflicts. This chapter will provide practical strategies for addressing workplace conflict through open communication.
 

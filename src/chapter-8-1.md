@@ -1,5 +1,4 @@
-Chapter 11: Metrics for Measuring Conflict Resolution Effectiveness
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of measuring the effectiveness of conflict resolution strategies when utilizing employee satisfaction surveys to address workplace conflict, encourage open communication, and promote resolution. To ensure the success of conflict resolution efforts, it is crucial to establish relevant metrics that can objectively assess the impact of these initiatives. This chapter will provide guidance on identifying and utilizing key metrics to measure the effectiveness of conflict resolution strategies.
 

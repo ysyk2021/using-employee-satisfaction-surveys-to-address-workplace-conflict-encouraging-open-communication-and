@@ -1,5 +1,4 @@
-Chapter: Different Types of Workplace Conflict
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of workplace conflict that can arise in organizations. Understanding these various types of conflicts is essential for effectively addressing and resolving them through employee satisfaction surveys and promoting open communication in the workplace.
 

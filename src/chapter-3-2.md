@@ -1,5 +1,4 @@
-Chapter 8: Identifying Key Survey Questions and Metrics
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of identifying key survey questions and metrics when utilizing employee satisfaction surveys to address workplace conflict, encourage open communication, and promote resolution. Well-crafted survey questions and appropriate metrics are essential for gathering meaningful data that can help organizations understand the underlying causes of conflict and communication barriers. This chapter will provide guidance on identifying key survey questions and metrics to effectively measure employee satisfaction and address workplace issues.
 

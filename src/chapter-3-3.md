@@ -1,5 +1,4 @@
-Chapter 7: Establishing Baselines for Comparison
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of establishing baselines for comparison when using employee satisfaction surveys to address workplace conflict, encourage open communication, and promote resolution. Baselines serve as reference points against which future survey results can be measured, allowing organizations to track changes, identify trends, and evaluate the effectiveness of their conflict resolution strategies. This chapter will discuss the significance of establishing baselines and provide guidance on how to establish them effectively.
 
